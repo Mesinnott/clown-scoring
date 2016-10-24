@@ -1,0 +1,19 @@
+{
+  "name": "clown-scoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mikey",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "moment": "^2.15.1",
+    "nedb": "^1.8.0",
+    "uuid": "^2.0.3"
+  }
+}
